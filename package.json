@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "prettier": "2.8.8",
+    "prettier-plugin-apex": "1.13.0"
+  },
+  "dependencies": {
+    "common.js": "^1.1.1",
+    "http": "^0.0.1-security",
+    "pg": "^8.11.0"
+  }
+}
